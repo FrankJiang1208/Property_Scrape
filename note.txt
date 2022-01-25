@@ -1,0 +1,18 @@
+States: CO () Done
+
+
+FL() Done
+
+TX() DONE
+
+NV() DONE
+
+UT() Done
+
+OK() Done
+
+TN() DONE
+
+CA() DONE
+
+WA(https://www.zillow.com/wa/2_p/?searchQueryState=%7B%22pagination%22%3A%7B%22currentPage%22%3A2%7D%2C%22usersSearchTerm%22%3A%22WA%22%2C%22mapBounds%22%3A%7B%22west%22%3A-127.067579734375%2C%22east%22%3A-114.696974265625%2C%22south%22%3A44.88671077042072%2C%22north%22%3A49.61043400158961%7D%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A59%2C%22regionType%22%3A2%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22att%22%3A%7B%22value%22%3A%22new%22%7D%2C%22built%22%3A%7B%22max%22%3A2010%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A7%7D)
